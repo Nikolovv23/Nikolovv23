@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming with C#. I aim to develop my skills in different areas 
 - 🌱 I'm currently looking for an internship. 
 - 💞️ I’m looking to collaborate on experienced C# programmers 
-- 📫 How to reach me \ My email is todor_nikolov_2005@abv.bg
+- 📫 How to reach me -
+-  My email is todor_nikolov_2005@abv.bg
 
 
 <!---
